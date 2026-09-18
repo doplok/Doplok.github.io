@@ -5,3 +5,5 @@ plugins:
 title: O site mais maneiro e fds
 tagline: site para resenhar
 description: bumbumbum ne
+
+show_downloads: true
